@@ -1,0 +1,35 @@
+{
+    "Nom étudiant": [
+        "tebboune",
+        "zizi",
+        "bachir",
+        "taher"
+    ],
+    "age": [
+        "25",
+        "26",
+        "27"
+
+    ],
+    "dommaine": [
+        "La blanche",
+        "chomeur",
+        "droit",
+        "catholique"
+    ],
+    "Pays": [
+        "Alger la blanche",
+        "tindouf",
+        "rghaya ghaya",
+        "boudouaou"
+    ],
+    "date naissance": [
+        "28/25/2000",
+        "5/1/2012",
+        "8/3/1800",
+        "1er guerre mondiale"
+    ],
+   
+}
+
+
